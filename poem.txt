@@ -4,3 +4,5 @@ Blue
 Green
 Orange
 Red
+
+Our flag has three colors
