@@ -4,5 +4,5 @@ Blue
 Green
 Orange
 Red
-
+This is a new line to check the history.
 Our flag has three colors
