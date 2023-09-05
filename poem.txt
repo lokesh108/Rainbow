@@ -8,3 +8,4 @@ This is a new line to check the history.
 Our flag has three colors
 test for new branch
 new branch added.
+this is a new line in newbranch
